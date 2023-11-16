@@ -1,0 +1,82 @@
+{
+  "car": [
+    {
+      "id": 1,
+      "name": "2016 CIVIC 1.5 TURBO RS",
+      "transmission": "อัตโนมัติ",
+      "color": "เทากัล",
+      "miles": 111222,
+      "phone": "092-89xxxxx",
+      "carimage": "image/id1.png",
+      "carimage2": "image/id1_2.png",
+      "carimage3": "image/id1_3.png",
+      "carimage4": "image/id1_4.png",
+      "price": "752,103"
+    },
+    {
+      "id": 2,
+      "name": "2018 BRIO 1.2 V",
+      "transmission": "อัตโนมัติ",
+      "color": "ขาว",
+      "miles": 112342,
+      "phone": "062-59xxxxx",
+      "carimage": "image/id2.png",
+      "carimage2": "image/id2_2.png",
+      "carimage3": "image/id2_3.png",
+      "carimage4": "image/id2_4.png",
+      "price": "399,000"
+    },
+    {
+      "id": 3,
+      "name": "2019 HONDA JAZZ, 1.5 i-VTEC RS",
+      "transmission": "อัตโนมัติ",
+      "color": "เทา",
+      "miles": 22344,
+      "phone": "065-83xxxxx",
+      "carimage": "image/id3.png",
+      "carimage2": "image/id3_2.png",
+      "carimage3": "image/id3_3.png",
+      "carimage4": "image/id3_4.png",
+      "price": "529,000"
+    },
+    {
+      "id": 4,
+      "name": "2021 HONDA CITY, 1.0 S",
+      "transmission": "อัตโนมัติ",
+      "color": "แดง",
+      "miles": 113344,
+      "phone": "093-83xxxxx",
+      "carimage": "image/id4.png",
+      "carimage2": "image/id4_2.png",
+      "carimage3": "image/id4_3.png",
+      "carimage4": "image/id4_4.png",
+      "price": "579,500"
+    },
+    {
+      "id": 5,
+      "name": "2015 HONDA HRV, 1.8 S",
+      "transmission": "อัตโนมัติ",
+      "color": "เทา",
+      "miles": 22009,
+      "phone": "094-45xxxxx",
+      "carimage": "image/id5.png",
+      "carimage2": "image/id5_2.png",
+      "carimage3": "image/id5_3.png",
+      "carimage4": "image/id5_4.png",
+      "price": "439,000"
+    },
+    {
+      "id": 6,
+      "name": "2017 HONDA MOBILIO, 1.5 RS",
+      "transmission": "ธรรมดา",
+      "color": "ส้ม",
+      "miles": 33223,
+      "phone": "095-33xxxxx",
+      "carimage": "image/id6.png",
+      "carimage2": "image/id6_2.png",
+      "carimage3": "image/id6_3.png",
+      "carimage4": "image/id6_4.png",
+      "price": "763,000"
+    }
+  ]
+}
